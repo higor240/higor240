@@ -2,8 +2,31 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Higor Ferreira dos Santos, tenho 26 anos e sou natural de Minas gerais. Atualmente, estou cursando Sistemas de Informação no IFNMG Arinos.
+Tecnologias e Competências Técnicas:
 
+Front-End:
+Linguagens: JavaScript (ES6+), TypeScript.
+Framework & Bibliotecas: React.js, Bootstrap.
+Conceitos: Componentização, State Management, HTML5, CSS3.
+
+Back-End & Linguagens de Programação:
+PHP: Desenvolvimento de APIs e sistemas monolíticos utilizando o framework CodeIgniter.
+Conceitos: Programação Orientada a Objetos (POO), padrões de projeto (MVC), autenticação (JWT, OAuth).
+
+Java:
+Conhecimentos sólidos em sintaxe core, POO, collections e streams.
+Familiaridade com Spring Boot para construção de APIs RESTful.
+
+Banco de Dados:
+SQL: Modelagem relacional, otimização de performance, e procedures em SGBDs como MySQL, PostgreSQL e SQL Server.
+
+Ferramentas & DevOps:
+Controle de Versão: Git (GitFlow), GitHub/GitLab.
+
+Infraestrutura & Suporte: Administração básica de redes, suporte técnico Nível 2 e 3, troubleshooting e manutenção de ambientes Windows Server.
+
+Low-Code / Plataformas:
+Mendix: Desenvolvimento de aplicações enterprise (Modeler & Studio Pro), customização com microflows, Java actions, integração via REST/SOAP APIs, e deploy em ambientes cloud e on-premise.
 
 ---
 
