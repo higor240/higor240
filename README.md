@@ -29,7 +29,7 @@ Low-Code / Plataformas:
 Mendix: Desenvolvimento de aplicações enterprise (Modeler & Studio Pro), customização com microflows, Java actions, integração via REST/SOAP APIs, e deploy em ambientes cloud e on-premise.
 
 Design & Prototipagem:Figma: criação de interfaces, protótipos interativos e fluxos de usuário.
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
