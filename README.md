@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tecnologias e Competências Técnicas:
+Tecnologias e Competências:
 
 Front-End:
 Linguagens: JavaScript (ES6+), TypeScript.
