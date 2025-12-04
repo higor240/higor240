@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tecnologias e Competências:
+Tecnologias e Competências Técnicas:
 
 Front-End:
 Linguagens: JavaScript (ES6+), TypeScript.
@@ -20,15 +20,16 @@ Familiaridade com Spring Boot para construção de APIs RESTful.
 Banco de Dados:
 SQL: Modelagem relacional, otimização de performance, e procedures em SGBDs como MySQL, PostgreSQL e SQL Server.
 
-Ferramentas & DevOps:
+Ferramentas:
 Controle de Versão: Git (GitFlow), GitHub/GitLab.
 
 Infraestrutura & Suporte: Administração básica de redes, suporte técnico Nível 2 e 3, troubleshooting e manutenção de ambientes Windows Server.
 
 Low-Code / Plataformas:
-Mendix: Desenvolvimento de aplicações enterprise (Modeler & Studio Pro), customização com microflows, Java actions, integração via REST/SOAP APIs, e deploy em ambientes cloud e on-premise.
+Mendix: Desenvolvimento de aplicações enterprise, customização com microflows, Java actions, integração via REST/SOAP APIs.
 
-Design & Prototipagem:Figma: criação de interfaces, protótipos interativos e fluxos de usuário.
+Design & Prototipagem:
+Figma: criação de interfaces, protótipos interativos e fluxos de usuário.
 
 
 ### 🤖 Linguagens e Tecnologias
