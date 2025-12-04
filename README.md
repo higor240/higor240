@@ -161,9 +161,15 @@ Figma: criação de interfaces, protótipos interativos e fluxos de usuário.
 
 ### 📊 Estatísticas
 
-<!-- GitHub Metrics -->
 <div align="center">
-  <img src="https://github.com/higor240/github-metrics/blob/master/github-metrics.svg" alt="Metrics" width="75%">
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higor240&theme=tokyonight" />
+
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=higor240&theme=tokyonight&hide_border=false" />
+
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=higor240&theme=tokyonight" />
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higor240&theme=tokyonight" />
+
 </div>
 
 <img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
